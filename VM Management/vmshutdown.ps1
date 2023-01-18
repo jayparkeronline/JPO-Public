@@ -1,4 +1,4 @@
-﻿#Author Jay Parker
+﻿
 #Purpose: automate VM shutdown for hyper-v host patching
 
 
